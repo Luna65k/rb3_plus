@@ -27,6 +27,7 @@
 | Burn It Down | Linkin Park | G: Drop D<br>B: Drop D | same as in-game |
 | Numb | Linkin Park | G: Drop Db<br>B: Drop Db | same as in-game |
 | Shadow of the Day | Linkin Park | G: Drop Db<br>B: Drop Db | same as in-game |
+| What I've Done | Linkin Park | G: E Standard<br>B: Drop D | same as in-game |
 | Sanctified | Nine Inch Nails | G: E Standard<br>B: E Standard | same as in-game |
 | Terrible Lie | Nine Inch Nails | G: E Standard<br>B: E Standard | same as in-game |
 | Rape Me | Nirvana | G: E Standard <br> B: E Standard | G: Eb Standard <br> B: Eb Standard |

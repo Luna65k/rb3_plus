@@ -23,7 +23,7 @@
 | Alone | Heart | G: E Standard<br>B: E Standard | G: same as in-game<br> B: Db Standard |
 | Oh My Love | John Lennon | G: E Standard<br>B: E Standard | same as in-game |
 | Re-Arranged | Limp Bizkit | G: E Standard<br>B: E Standard | G: C# Standard<br>B: C# Standard |
-| Breaking the Habit | Linkin Park | G: E Standard<br>B: Drop D | same as in-game |
+| Breaking the Habit | Linkin Park | G: Eb Drop Db<br>B: Eb Drop Db | same as in-game |
 | Burn It Down | Linkin Park | G: E Standard<br>B: Drop D | same as in-game |
 | Numb | Linkin Park | G: Drop D<br>B: Drop D | G: Eb Drop Db<br>B: Eb Drop Db |
 | Shadow of the Day | Linkin Park | G: E Standard<br>B: E Standard | same as in-game |
